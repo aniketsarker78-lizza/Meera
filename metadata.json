@@ -1,0 +1,6 @@
+{
+  "name": "Meera",
+  "description": "Meera - Y2K pastel cyber AI companion with Bengali voice, Sanatani knowledge, Japanese academy, and system controls for Aniket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
